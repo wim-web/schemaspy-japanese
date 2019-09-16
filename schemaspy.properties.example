@@ -1,0 +1,9 @@
+schemaspy.t=mysql
+schemaspy.host=
+schemaspy.port=3306
+schemaspy.db=
+schemaspy.u=
+schemaspy.p=
+//mysqlはdbと一緒
+//postgresはスキーマを指定
+schemaspy.s=
